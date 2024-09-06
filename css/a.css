@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+    text-align: center;
+    
+}
+div {
+    color: #ffffff;
+    font-size: 18px;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    padding: 12px 0;
+    background-color: black;
+    margin: 30px auto;
+    width: 1000px;
+    
+}
+.p{
+    
+    background-image: url(../img/BsiZcwOOgAzanoS1722743640_1722743669.png);
+    
+}
+select{
+    font-size: x-large;
+}
+a{
+    color: #ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 0px;
+
+}
+p h1{
+    font-size:xx-large;
+}
